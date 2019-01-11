@@ -14,7 +14,7 @@
 
 cmake_minimum_required(VERSION 3.5)
 
-project(fastrtps_cmake_module)
+project(fastrtps_cmake_module_idl)
 
 find_package(ament_cmake REQUIRED)
 
